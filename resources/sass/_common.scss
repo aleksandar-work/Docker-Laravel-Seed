@@ -1,0 +1,25 @@
+.margin-nav {
+    margin-top: 70px;
+}
+
+.bg-light-blue, .label-primary, .modal-primary .modal-body {
+    background-color: #3c8dbc !important;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.dropzone {
+    margin-bottom: 20px;
+    min-height: auto;
+}
